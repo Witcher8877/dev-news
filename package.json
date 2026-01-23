@@ -1,0 +1,24 @@
+{
+  "name": "dev-news",
+  "version": "1.0.0",
+  "description": "Um lugar para reunir as noticias no mundo da tecnologia feito com base no TabNews",
+  "homepage": "https://github.com/Witcher8877/dev-news#readme",
+  "bugs": {
+    "url": "https://github.com/Witcher8877/dev-news/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Witcher8877/dev-news.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
